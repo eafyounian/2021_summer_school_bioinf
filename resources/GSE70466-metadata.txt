@@ -1,0 +1,7 @@
+Sample_geo_accession	Sample Title	cell line	cell type
+GSM1778901	LNCaP_1_GRCh37_74	LNCaP	androgen-sensitive human prostate adenocarcinoma (LNCaP)
+GSM1778903	LNCaP_2_GRCh37_74	LNCaP	androgen-sensitive human prostate adenocarcinoma (LNCaP)
+GSM1778904	LNCaP_3_GRCh37_74	LNCaP	androgen-sensitive human prostate adenocarcinoma (LNCaP)
+GSM1778905	PrEC_1_GRCh37_74	PrEC	normal prostate epithelial cells (PrEC)
+GSM1778906	PrEC_2_GRCh37_74	PrEC	normal prostate epithelial cells (PrEC)
+GSM1778907	PrEC_3_GRCh37_74	PrEC	normal prostate epithelial cells (PrEC)
